@@ -1,2 +1,6 @@
 # DE-veloped_samples
-Samples of [de-veloped.de](www.de-veloped.de)
+Beispiele zu Blogs auf [de-veloped.de](www.de-veloped.de)
+
+Branches:
+
++ [Einstieg in git blog](https://github.com/DE-veloped/DE-veloped_samples/tree/git_blog)
