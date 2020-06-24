@@ -5,6 +5,6 @@ Jeder Blog enthält einen eigenen Branch in diesem Repository. So kann bequem zw
 Der master Branch enthält lediglich die Übersicht über alle bestehenden Blog-Branches.\
 
 Du befindest dich um Branch zum Blog:\
- ***"Einfaches ABAP Business Application Log (BAL) mit dem Interface IF_RECA_MESSAGE_LIST erstellen"***
+ [***"Einfaches ABAP Business Application Log (BAL) mit dem Interface IF_RECA_MESSAGE_LIST erstellen"***](https://de-veloped.de/?p=120)
 
 Hier geht's zum [master Branch!](https://github.com/DE-veloped/DE-veloped_samples/tree/master)
