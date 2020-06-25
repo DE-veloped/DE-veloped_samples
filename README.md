@@ -5,5 +5,7 @@ Der master Branch enthält lediglich die Übersicht über alle bestehenden Blog-
 
 ## Blog-Branches:
 
-+ [Einstieg in git blog](https://github.com/DE-veloped/DE-veloped_samples/tree/git_blog)
-
++ [Einstieg in git blog](https://github.com/DE-veloped/DE-veloped_samples/tree/git_blog)\
+Link zum Blog https://de-veloped.de/?p=1 
++ [Einfaches ABAP Business Application Log (BAL) mit dem Interface IF_RECA_MESSAGE_LIST erstellen](https://github.com/DE-veloped/DE-veloped_samples/tree/abap_if_reca_message_list)\
+Link zum Blog: https://de-veloped.de/?p=120
