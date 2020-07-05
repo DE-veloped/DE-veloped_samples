@@ -1,0 +1,15 @@
+{
+  "name": "backend_de-veloped_ui5_expr_node_mongo_sample",
+  "version": "1.0.0",
+  "description": "Backend for the de-veloped UI5 Express Node MongoDB blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Magnus Pasulke",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.21"
+  }
+}

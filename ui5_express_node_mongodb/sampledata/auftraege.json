@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5ef515617db5852bfc0b4ed7"},"kunde":"XY AG","auftragswert":{"$numberDecimal":"500.00"},"waehrung":"€","status":"Offen","lieferdatum":{"$date":{"$numberLong":"1612134000000"}}}
+{"_id":{"$oid":"5ef517d37abffc2bfc62f253"},"kunde":"XY AG","auftragswert":{"$numberDecimal":"300"},"waehrung":"€","status":"In Bearbeitung","lieferdatum":{"$date":{"$numberLong":"1597100400000"}}}
+{"_id":{"$oid":"5ef518fe7abffc2bfc62f254"},"kunde":"ABC GmbH","auftragswert":{"$numberDecimal":"10.00"},"waehrung":"€","status":"Erledigt","lieferdatum":{"$date":{"$numberLong":"1580511600000"}}}
+{"_id":{"$oid":"5f019cf841680c2644d5f1b3"},"kunde":"Mustermman GmbH","auftragswert":{"$numberDecimal":"5540.40"},"waehrung":"€","status":"Offen","lieferdatum":{"$date":{"$numberLong":"1597532400000"}}}
+{"_id":{"$oid":"5f019d3941680c2644d5f1b4"},"kunde":"Mustermman GmbH","auftragswert":{"$numberDecimal":"50.60"},"waehrung":"€","status":"Erledigt","lieferdatum":{"$date":{"$numberLong":"1516057200000"}}}
