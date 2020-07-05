@@ -5,4 +5,4 @@ Jeder Blog enthält einen eigenen Branch in diesem Repository. So kann bequem zw
 Der master Branch enthält lediglich die Übersicht über alle bestehenden Blog-Branches.\
 
 Du befindest dich im Branch zum Blog:\
- [***"Eine Single Page Application mit openUI5, node.js, express & mongoDB entwickeln"***](https://de-veloped.de/?p=164)
+ [***"Eine Web-App mit openUI5, node.js, express & mongoDB entwickeln"***](https://de-veloped.de/?p=164)
