@@ -1,9 +1,12 @@
 //import express & mongoose module
 var express = require("express");
 var mongoose = require("mongoose");
+var cors = require("cors");
 
 // express initialisieren
 var app = express();
+// CORS zulassen (!Achtung, nur für Demo Zwecke!)
+app.use(cors());
 
 //mongoose mit der Datenbank verbinden
 mongoose.connect("mongodb://localhost:27017/UI5-Node-Express-Mongo-Datenbank", {
