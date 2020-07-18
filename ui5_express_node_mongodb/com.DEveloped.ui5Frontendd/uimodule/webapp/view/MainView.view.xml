@@ -1,0 +1,36 @@
+<View controllerName="com.DEveloped.ui5Frontend.controller.MainView" displayBlock="true" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" xmlns:ui="sap.ui.">
+	<App id="idAppControl">
+		<pages>
+			<Page title="{i18n>title}">
+				<content>
+					<Table items="{/}">
+						<columns>
+							<Column>
+								<Text text="Kunde" />
+							</Column>
+							<Column>
+								<Text text="Wert" />
+							</Column>
+							<Column>
+								<Text text="Status" />
+							</Column>
+							<Column>
+								<Text text="Lieferdatum" />
+							</Column>
+						</columns>
+						<items>
+							<ColumnListItem>
+								<cells>
+									<ObjectIdentifier title="{kunde}" />
+									<ObjectNumber number="{auftragswert}" unit="{waehrung}"/>
+									<Text text="{status}" />
+									<Text text="{lieferdatum}" />
+								</cells>
+							</ColumnListItem>
+						</items>
+					</Table>
+				</content>
+			</Page>
+		</pages>
+	</App>
+</View>

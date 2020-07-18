@@ -1,0 +1,16 @@
+{
+  "generator-easy-ui5": {
+    "projectname": "ui5Frontend",
+    "namespace": "com.DEveloped",
+    "platform": "Static webserver",
+    "viewtype": "XML",
+    "viewname": "MainView",
+    "ui5libs": "Content delivery network (OpenUI5)",
+    "newdir": true,
+    "namespaceURI": "com/DEveloped",
+    "uimodules": [
+      "uimodule"
+    ],
+    "setupCompleted": true
+  }
+}
